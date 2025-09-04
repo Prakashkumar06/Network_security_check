@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/praka/Network_security_check/mlruns/0/models/m-0eb06a34c6064e438a6d5c5611d38081/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.3.2
+model_id: m-0eb06a34c6064e438a6d5c5611d38081
+model_size_bytes: 1724287
+model_uuid: m-0eb06a34c6064e438a6d5c5611d38081
+prompts: null
+run_id: 811345b860c04e32a849477a4c94b0ca
+utc_time_created: '2025-09-04 19:15:55.879837'
