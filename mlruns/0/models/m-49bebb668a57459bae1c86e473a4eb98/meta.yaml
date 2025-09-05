@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/praka/Network_security_check/mlruns/0/models/m-49bebb668a57459bae1c86e473a4eb98/artifacts
+creation_timestamp: 1757082710590
+experiment_id: '0'
+last_updated_timestamp: 1757082713702
+model_id: m-49bebb668a57459bae1c86e473a4eb98
+model_type: null
+name: model
+source_run_id: fab02e60286647429016c80162ff4935
+status: 2
+status_message: null

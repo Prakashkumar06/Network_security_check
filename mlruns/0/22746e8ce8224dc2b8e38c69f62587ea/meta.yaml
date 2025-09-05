@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/praka/Network_security_check/mlruns/0/22746e8ce8224dc2b8e38c69f62587ea/artifacts
+end_time: 1757082224242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22746e8ce8224dc2b8e38c69f62587ea
+run_name: whimsical-panda-490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757082218816
+status: 3
+tags: []
+user_id: praka
