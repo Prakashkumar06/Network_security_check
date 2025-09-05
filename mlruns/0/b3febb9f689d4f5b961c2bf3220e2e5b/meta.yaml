@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/praka/Network_security_check/mlruns/0/b3febb9f689d4f5b961c2bf3220e2e5b/artifacts
+end_time: 1757022935969
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3febb9f689d4f5b961c2bf3220e2e5b
+run_name: gaudy-roo-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757022932631
+status: 3
+tags: []
+user_id: praka

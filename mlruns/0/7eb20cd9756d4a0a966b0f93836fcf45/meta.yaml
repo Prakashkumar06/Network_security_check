@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/praka/Network_security_check/mlruns/0/7eb20cd9756d4a0a966b0f93836fcf45/artifacts
+end_time: 1757068615375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7eb20cd9756d4a0a966b0f93836fcf45
+run_name: nebulous-mule-659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757068608480
+status: 3
+tags: []
+user_id: praka

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/praka/Network_security_check/mlruns/0/1e93edb1ec9944e185d0c89e613acbec/artifacts
+end_time: 1757068619060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e93edb1ec9944e185d0c89e613acbec
+run_name: spiffy-turtle-997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757068615436
+status: 3
+tags: []
+user_id: praka
